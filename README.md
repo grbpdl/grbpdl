@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @grbpdl
+- 👋 Hi, I’m gAURAB paUDYAL
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on web develpment
 - 📫 How to reach me @paudyal_jr on instagram
 
 <!---
