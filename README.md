@@ -1,5 +1,5 @@
-- 👋 Hi, I’m gAURAB paUDYAL
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Gaurab Paudyal
+-Graphics Designing
 - 📫 How to reach me @paudyal_jr on instagram
 
 <!---
