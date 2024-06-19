@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurab Paudyal</h1>
 <h3 align="center">Computer Engineer and a writer.</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- Full Stack Web and App Developer, UI/UX Designer, Data Science Enthusiast, and AI Learner.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
