@@ -106,8 +106,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurabpaudyal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabpaudyal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grbpdl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grbpdl&theme=tokyonight" />
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gaurabpaudyal/gaurabpaudyal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/grbpdl/grbpdl/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
